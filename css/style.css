@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 70px;
+    font-family: 'IM Fell French Canon', serif;
+}
+
+.navbar {
+    background-color: #272121 !important;
+    height: 80px;
+}
+.resimSlider {
+    height: 800px;
+}
+
+.hakkimizda,
+.galeri {
+    background-color: #DFD3C3;
+}
+
+.hakkimizda div p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.ayrac {
+    border-top: 5px solid #494949;
+    max-width: 300px;
+    margin: 30px auto;
+}
+
+.i1 {
+    color: #494949;
+    position: relative;
+    top: -60px;
+    font-size: 45px;
+    border: 10px solid #DFD3C3;
+    background-color: #DFD3C3;
+}
+
+.i2 {
+    color: #494949;
+    position: relative;
+    top: -60px;
+    font-size: 45px;
+    border: 10px solid #FCF8E8;
+    background-color: #FCF8E8;
+}
+
+.ekibimiz, .iletisim {
+    background-color: #FCF8E8;
+}
+
+.ekip-card img {
+    height: 400px;
+}
+
+.ekip-card img:hover {
+    opacity: 0.8;
+}
+
+.figure:hover {
+    opacity: 0.8;
+}
+
+.button{
+    margin-right: 175px;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: #272121 !important;
+
+}
+
+footer p {
+    font-size: 20px;
+
+}
